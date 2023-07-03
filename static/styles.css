@@ -1,0 +1,10 @@
+/* Establecer el fondo negro */
+body {
+    background-color: black;
+  }
+  
+  /* Cambiar el tipo de letra */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
